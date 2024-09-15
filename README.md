@@ -11,7 +11,7 @@ python create_gif.py path/to/your/strip.png output.gif --fps 15 --loop 3 --strip
 # Creates gif from image strip
     
 # fps default: 10 fps
-#loop default: 0 (loops forever)
+# loop default: 0 (loops forever)
 ```
 
 
