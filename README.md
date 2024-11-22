@@ -1,5 +1,5 @@
 # gifMakerCLI
-A simple CLI for creating gifs from an image strip or directory of images. Fixes discoloration or improper background removal which is a common occurrence in similar free software.
+A simple CLI for creating gifs from an image strip or directory of images. Fixes discoloration and improper background removal which is a common occurrence in similar free software.
 
 # Example use:
 **bash commands:**
